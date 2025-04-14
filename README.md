@@ -1,1 +1,2 @@
-# CMPE460L
+# NASA Space Helper
+
